@@ -14,7 +14,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="PREMIER",Indosiar
 http://rr2.dens.tv/s/s04/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png " group-title="PREMIER",TRANS TV
+#EXTINF:-1 tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/anytv/images/TRANS%20TV%20live%20streaming%20tv.jpg" group-title="PREMIER",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1274875783_b744100_sleng.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
@@ -68,7 +68,7 @@ https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title="PREMIER",Trans 7
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/anytv/images/TRANS7%20live%20streaming%20tv.jpg" group-title="PREMIER",Trans 7
 https://liveanevia.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #EXTINF:0 tvg-country="ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png" group-title="PREMIER",BeritaSatu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8?checkedby:iptvcat.com
@@ -107,7 +107,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-logo="http://dusktill.masuk.web.id/img/soccerchannel.png" group-title="PREMIER",SOCCER CHANNEL
+#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/97/Soccer_Channel.png/300px-Soccer_Channel.png" group-title="PREMIER",SOCCER CHANNEL
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -119,15 +119,15 @@ http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="PREMIER" tvg-logo="https://i.imgur.com/3EVWz1z.png",Garuda TV
 https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
-#EXTINF:-1   tvg-logo="https://www.kibrispdr.org/data/986/tv-png-logo-37.png" group-title="PREMIER", Mola
+#EXTINF:-1   tvg-logo="https://www.99.co/blog/indonesia/wp-content/uploads/2021/03/cara-berlangganan-mola-tv.jpg" group-title="PREMIER", Mola
 http://ventdelnord.tv:8080/mola/directe.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="PREMIER",RRI NET
+#EXTINF:-1   tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_small1.png" group-title="PREMIER",RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="PREMIER", INDOSIANA TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YwxwPj/Screenshot-3.png" group-title="PREMIER",UGTV
+#EXTINF:-1   tvg-logo="https://ugtv.co.id/wp-content/uploads/2021/02/logo-ug-300x300.png" group-title="PREMIER",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
